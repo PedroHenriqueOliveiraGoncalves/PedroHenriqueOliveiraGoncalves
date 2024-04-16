@@ -1,7 +1,7 @@
 Olá! Eu sou o Pedro Henrique Oliveira Gonçalves
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/camposcoder?igshid=YmMyMTA2M2Y=)
+Acesse o meu portifólio https://bio.site/PedroDEV
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHenriqueOliveiraGoncalves&show_icons=true&theme=transparent)
 
